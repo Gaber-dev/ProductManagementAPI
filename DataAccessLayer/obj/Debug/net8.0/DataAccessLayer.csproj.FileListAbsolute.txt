@@ -1,0 +1,14 @@
+E:\.Net track\ProductManagementAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\.Net track\ProductManagementAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+E:\.Net track\ProductManagementAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\.Net track\ProductManagementAPI\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\.Net track\ProductManagementAPI\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
